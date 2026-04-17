@@ -4,6 +4,10 @@ body{
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
 }
+img{
+    display: inline-block;
+    margin: auto;
+}
 .title{
     text-align: left;
    margin: 10px;
@@ -40,4 +44,11 @@ a{
 color: #2d6a4f;
 padding: 5px;
 margin: auto;
+padding-left: 20px;
+}
+.orderer-list{
+color: #2d6a4f;
+padding: 5px;
+margin: auto;
+padding-left: 20px; 
 }
